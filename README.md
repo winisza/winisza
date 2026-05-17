@@ -10,7 +10,7 @@ Portfolio projects I'm building through 2026:
 2. **Credit risk scoring.** Logistic regression and gradient boosting on public lending data, with SHAP for interpretability. Later in 2026.
 3. **Risk reporting dashboard.** SQL backend, Python ETL, Streamlit frontend. Q4 2026.
 
-Additional 4Fun projects:
+Additional 4Fun projects:  
 4. **BassLift.** Local audio tool that extracts the bass line from a song, transcribes it to notes, and generates a 4-string bass tab (with optional MIDI export and isolated bass WAV) - available in experimental v0.1.0 and will be developed further through 2026.
 
 
