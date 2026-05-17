@@ -12,7 +12,7 @@ Portfolio projects I'm building through 2026:
 
 Additional 4Fun projects:
 4. **BassLift.** Local audio tool that extracts the bass line from a song, transcribes it to notes, and generates a 4-string bass tab (with optional MIDI export and isolated bass WAV) - available in experimental v0.1.0 and will be developed further through 2026.
-5. **Eurovsion Song Contest PowerBI dashboard** - later in 2026.
+
 
 Each repo has a README covering the problem, the approach, the results, and what I'd do differently next time.
 
